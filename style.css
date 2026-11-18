@@ -122,3 +122,8 @@ footer {
   text-align: center;
 }
 footer a { margin: 0 8px; }
+
+/* Sprachwahl oben rechts */
+.langs { max-width: 680px; margin: 0 auto; padding: 12px 16px 0; text-align: right; font-size: 15px; }
+.langs a, .langs span { margin-left: 12px; }
+.langs span { color: var(--muted); }
